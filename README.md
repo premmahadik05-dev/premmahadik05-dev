@@ -1,242 +1,138 @@
-<div align="center">
+# Hi, I'm Prem Mahadik 👋
 
-# Hi 👋, I'm Prem Hemant Mahadik
+### Software Engineering | Applied AI/ML | DevOps & Cloud
 
-### Software Engineer | Backend Developer | M.Tech CSE (Artificial Intelligence)
+I build practical software products, intelligent applications, and reliable engineering workflows.
 
-Building scalable backend systems, AI-powered applications, and production-ready software.
+📍 Vadodara, Gujarat, India
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prem-mahadik-699745253">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:prem.h.mahadik@nuv.ac.in">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=premmahadik05-dev&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-</div>
+[LinkedIn](https://linkedin.com/in/prem-hemant-mahadik-699745253) · [GitHub](https://github.com/premmahadik05-dev) · [Email](mailto:premmahadik06@gmail.com)
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Software Engineer** pursuing an **M.Tech in Computer Science & Engineering (Artificial Intelligence)** with a strong interest in designing scalable backend systems and AI-driven software.
+I am a Computer Science and Engineering postgraduate student specializing in Artificial Intelligence at Navrachana University.
 
-I enjoy building production-ready applications using modern technologies, focusing on clean architecture, performance, and real-world impact.
+My interests and hands-on work span Software Development, Artificial Intelligence, Machine Learning, and DevOps.
 
-- 🔭 Building AI-powered software products
-- 🌱 Learning Spring Boot, Kubernetes & Microservices
-- 💡 Interested in Backend Engineering, AI, System Design & Cloud Computing
-- 🤝 Open to Software Engineering and Backend Development opportunities
+I enjoy building end-to-end applications, designing APIs, integrating intelligent systems, experimenting with machine learning models, and developing reliable software workflows.
 
----
+- 💻 Full-stack application development
+- 🤖 Applied AI, Machine Learning & NLP
+- ☁️ DevOps, Docker & Cloud Infrastructure
+- 📊 Data Analytics & Predictive Modeling
+- 🔬 Research-driven engineering and experimentation
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages:** Python, TypeScript, JavaScript, SQL, C, C++
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-</p>
+**Frontend:** React, React 19, Vite, Tailwind CSS
 
-### ⚙️ Backend
+**Backend:** FastAPI, Node.js, Express, tRPC, REST APIs, WebSockets
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</p>
+**Databases:** PostgreSQL, MySQL, SQLite, SQLAlchemy, Drizzle ORM
 
-- REST APIs
-- Authentication
-- WebSockets
-- JSON
+**AI/ML:** Scikit-learn, XGBoost, Random Forest, PyTorch, SHAP, NLP, Time-Series Forecasting
 
-### 🎨 Frontend
+**DevOps & Cloud:** Docker, Docker Compose, GitHub Actions, Linux, Bash, AWS CloudFormation, AWS ECS, AWS RDS
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
+**Testing:** PyTest, Vitest, Playwright, React Testing Library
 
-### 🗄️ Databases
+## 🌟 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+### 01. SWARA AI
+**Multilingual Voice-Ordering & Billing Platform**
 
-### ☁️ Cloud & DevOps
+An AI-powered voice and text ordering platform designed for Indian Kirana stores, supporting 11 Indian languages.
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux" />
-</p>
+- Custom multilingual NLU engine.
+- Gnani speech-to-text and text-to-speech integration.
+- Intelligent product matching and dialogue management.
+- Real-time inventory and billing workflows.
+- 1,103 PyTest and 513 Vitest tests.
 
-### 🧰 Tools
+**Technologies:** Python, FastAPI, React, TypeScript, WebSockets, SQLAlchemy.
 
-- VS Code
-- Postman
-- Jupyter Notebook
+### 02. Talent AI
+**Explainable AI Hiring Intelligence Platform**
 
----
+An intelligent recruitment platform that evaluates candidates against job requirements using structured scoring and explainable recommendations.
 
-# 🚀 Featured Projects
+- Six-factor weighted candidate scoring.
+- LLM-assisted job requirement extraction.
+- Candidate ranking and skill matching.
+- Explainable recommendations and risk analysis.
+- Recruiter analytics and Excel export.
 
-## 🤖 Talent AI – Intelligent Candidate Discovery Platform
+**Technologies:** TypeScript, React 19, Node.js, Express, tRPC, MySQL, Drizzle ORM.
 
-An AI-powered recruitment platform that transforms job descriptions into explainable candidate rankings using Large Language Models.
+### 03. EnergiQ AI
+**Energy Forecasting & Intelligence Platform**
 
-### Highlights
+An AI-powered energy platform focused on electricity forecasting, anomaly detection, explainability, and smart energy management.
 
-- 🤖 LLM-powered Job Description Parsing
-- 📊 Intelligent Candidate Ranking
-- 🎯 Hiring Readiness Score
-- 📈 Explainable AI
-- 🔍 Skill Gap Analysis
-- ⚡ FastAPI Backend
-- 🗄 PostgreSQL
-- ⚛ React
-- ☁ Docker & AWS
+- XGBoost and Random Forest forecasting.
+- PyTorch LSTM experimentation.
+- Isolation Forest-assisted anomaly detection.
+- TreeSHAP model explainability.
+- Evaluated across 7 residential communities and 73 buildings.
+- Selected one-hour models reduced MAE by 17–44% against the best naive baseline.
 
----
+**Technologies:** Python, XGBoost, PyTorch, FastAPI, PostgreSQL, React, Docker, GitHub Actions.
 
-## 🎓 ProctorAI – AI-Powered Online Exam Proctoring System
+## 💼 Professional Experience
 
-Real-time AI proctoring platform designed for secure online examinations.
+**Technical Analyst — 7HillsCyberWalls (2025)**
+- Software testing and test case development.
+- SQL data analysis and Tableau dashboards.
+- Technical documentation and defect identification.
 
-### Highlights
+**Software & Technical Intern — CFSS Cyber & Forensic Security Solutions (2024)**
+- Python automation and data processing.
+- SQL and log analysis.
+- Software debugging and testing.
 
-- 👁 Face Detection
-- 👀 Eye Tracking
-- 🖥 Browser Activity Monitoring
-- 📋 Clipboard Detection
-- ⌨ Keyboard Monitoring
-- 📈 Multi-Signal Risk Scoring
-- ⚡ WebSocket Event Streaming
-- 📊 Live Invigilator Dashboard
+## 📚 Research & Publication
 
----
+**A Multi-Disease Prediction Framework Using Machine Learning for Early Clinical Diagnosis**
 
-## 📄 DocuMind AI – Intelligent Document Intelligence Platform
+Springer Proceedings · 2026 · Co-author
 
-Enterprise-grade AI platform for extracting, indexing and searching information from PDF documents.
+- Benchmarked six supervised machine learning algorithms.
+- Applied feature engineering and cross-validation.
+- Worked on interpretable clinical decision-support methods.
 
-### Highlights
+## 🎓 Education
 
-- 📑 OCR Document Processing
-- 🔍 Intelligent Search
-- 📚 PDF Indexing
-- 🗂 Metadata Extraction
-- ⚡ FastAPI Backend
-- PostgreSQL Database
-- Docker Deployment
+**M.Tech — Computer Science & Engineering (Artificial Intelligence)**  
+Navrachana University | 2025–2027  
+GPA: 8.00/10
 
----
+**B.Tech — Computer Science Engineering**  
+ITM (SLS) Baroda University | 2021–2025  
+GPA: 8.00/10
 
-# 📊 GitHub Analytics
+## 🏅 Certifications
 
-<p align="center">
+- AWS Academy Graduate — Cloud Operations
+- AWS Academy Graduate — Cloud Foundations
+- AWS Academy Graduate — Data Engineering
+- AWS Academy Graduate — Machine Learning Foundations
+- AWS Academy Graduate — Generative AI Foundations
+- AWS Cloud Practitioner Essentials
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=premmahadik05-dev&show_icons=true&theme=github_dark&hide_border=true"/>
+## 🤝 Let's Connect
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premmahadik05-dev&layout=compact&theme=github_dark&hide_border=true"/>
+I am interested in building meaningful technology, solving engineering challenges, and collaborating on innovative projects.
 
-</p>
+📧 Email: premmahadik06@gmail.com
 
-<p align="center">
+💼 LinkedIn: https://linkedin.com/in/prem-hemant-mahadik-699745253
 
-<img src="https://streak-stats.demolab.com?user=premmahadik05-dev&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=premmahadik05-dev&theme=github-dark&hide_border=true"/>
-
-</p>
+💻 GitHub: https://github.com/premmahadik05-dev
 
 ---
 
-# 🌱 Currently Learning
-
-- Spring Boot
-- Microservices
-- Kubernetes
-- CI/CD Pipelines
-- System Design
-- Distributed Systems
-
----
-
-# 💼 Experience
-
-**Software & Technical Intern**  
-CFSS Cyber & Forensic Security Solutions
-
-- Python Automation
-- SQL Database Development
-- Software Testing
-- Debugging
-- Log Analysis
-
-**Technical Analyst**
-
-7HillsCyberWalls
-
-- SQL Analysis
-- Tableau Dashboards
-- Software Testing
-- Technical Documentation
-
----
-
-# 🎯 Areas of Interest
-
-- Software Engineering
-- Backend Development
-- Artificial Intelligence
-- FastAPI
-- REST APIs
-- Cloud Computing
-- Docker
-- AWS
-- PostgreSQL
-- System Design
-- Distributed Systems
-- Performance Optimization
-
----
-
-# 📈 2026 Goals
-
-- ✅ Build production-grade backend systems
-- ✅ Contribute to Open Source
-- ✅ Master Spring Boot & Microservices
-- ✅ Learn Kubernetes & DevOps
-- ✅ Solve 500+ DSA problems
-- ✅ Build scalable AI applications
-
----
-
-# 🤝 Connect With Me
-
-📍 **Vadodara, Gujarat, India**
-
-📧 **Email**
-
-**prem.h.mahadik@nuv.ac.in**
-
-💼 **LinkedIn**
-
-**https://www.linkedin.com/in/prem-mahadik-699745253**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code with purpose. Build with impact. Keep learning."*
-
-</div>
+*Building useful software. Applying AI thoughtfully. Engineering with evidence.*
