@@ -1,4 +1,4 @@
-# Hi, I'm Prem Mahadik 👋
+# Hi, I'm Prem Hemant Mahadik 👋
 
 ### Software Engineering | Applied AI/ML | DevOps & Cloud
 
